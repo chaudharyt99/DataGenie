@@ -3,3 +3,5 @@ pandas
 openai
 pydantic
 python-dotenv
+streamlit
+altair
